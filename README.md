@@ -13,6 +13,8 @@ To use this script:
   2. Enter a password when prompted
   
 Once the script is loaded, you can check passwords from the command line
+
       PS > pwnedPasswordCheck mypassword
- Note: if you do use this consider that windows logs Powershell history and your passwords will likely be saved in the history
+
+Note: if you do use this consider that windows logs Powershell history and your passwords will likely be saved in the history
 
